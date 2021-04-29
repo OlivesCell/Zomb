@@ -12,32 +12,4 @@ So using the browser is better...
 
 This https://ui.resizing.app/ helps with pics and this https://www.onlineconverter.com/resize-video.html with videos also.
 
-Control video streaming aspect with an adjusted fork of : .
-
-# Zoom Clone with Node Js, Socket.io, Peer Js and ejs
-
-#### **Live Project: https://zoom--clone--app.herokuapp.com**
-
-<br />
-
-## Snapshot
-
-[![zoom_clone](https://res.cloudinary.com/kirankumargonti/image/upload/v1609224848/Kirankumargonti/projects/latest_Projects/Screenshot_255_kquyuy.png)](https://zoom--clone--app.herokuapp.com)
-
-## Quick Start
-
-    # Clone the application
-    $ git clone https://github.com/kirankumargonti/zoom-clone.git
-
-    # Install dependencies
-    $ npm install
-
-    # Serve on localhost:5000
-    $ npm start
-    $ npm run dev (with nodemon)
-
-## Project Changes
-
-1. Change the Peer port number 443 to 5000 in **_`public/main.js`_** file if you're runnign in development mode
-
-2. For production change it to 443 (for Heroku deployment)
+Control video streaming aspect with an adjusted fork of https://github.com/kirankumargonti/zoom-clone.git
