@@ -108,8 +108,7 @@
     flex-wrap: wrap;
   }
   video {
-    height: 300px;
-    width: 400px;
-    object-fit: cover;
-    padding: 8px;
+    height: 720x;
+    width: 720px;
+    object-fit: fill;
   }
