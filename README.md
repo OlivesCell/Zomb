@@ -12,7 +12,7 @@ So using the browser is better...
 
 This https://ui.resizing.app/ helps with pics and this https://www.onlineconverter.com/resize-video.html with videos also.
 
-Perfect video 😍 with an adjusted fork of : .
+Control video streaming aspect with an adjusted fork of : .
 
 # Zoom Clone with Node Js, Socket.io, Peer Js and ejs
 
