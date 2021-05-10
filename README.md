@@ -7,8 +7,6 @@ I noticed that changing the camera settings on the phone help for the pictures b
 
 if you do it this way you don't need to faceU app and you don't need so many other beauty apps because the problem is Android doesn't allow you to correct the hardwares aspect ratio for the camera
 
-I'm trying to find something that can help me do this
-
 So basically the camera adds 10 lbs because Google made it so https://stackoverflow.com/questions/27057428/correct-aspect-ratio-in-android
 
 And the apps that might have worked are not even there anymore https://android.stackexchange.com/questions/98427/change-aspect-ratio-of-pictures/98683#98683
