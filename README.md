@@ -9,7 +9,7 @@ if you do it this way you don't need to faceU app and you don't need so many oth
 
 So basically the camera adds 10 lbs because Google made it so https://stackoverflow.com/questions/27057428/correct-aspect-ratio-in-android
 
-And the apps that might have worked are not even there anymore https://android.stackexchange.com/questions/98427/change-aspect-ratio-of-pictures/98683#98683. https://play.google.com/store/apps/details?id=com.paintastic us one for pictures.
+And the apps that might have worked are not even there anymore https://android.stackexchange.com/questions/98427/change-aspect-ratio-of-pictures/98683#98683. Although https://play.google.com/store/apps/details?id=com.paintastic is one for pictures.
 
 So using the browser is better...
 
