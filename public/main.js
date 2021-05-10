@@ -12,7 +12,7 @@ const myVideo = document.createElement('video')
   myVideo.setAttribute("height", "1080");
   myVideo.setAttribute("controls", "controls");
   
-myVideo.muted = true
+myVideo.muted = false
 const peers = {}
 navigator.mediaDevices
   .getUserMedia({
