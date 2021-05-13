@@ -8,7 +8,8 @@ I noticed that changing the camera settings on the phone help for the pictures b
 if you do it this way you don't need to faceU app and you don't need so many other beauty apps because the problem is Android doesn't allow you to correct the hardwares aspect ratio for the camera
 
 So basically the camera adds 10 lbs because Google made it so https://stackoverflow.com/questions/27057428/correct-aspect-ratio-in-android
-(1-4/5)=20% and (1-3/4)=25% so taking 3:4 aspect to 1:1 is still 5% too small a height however the chip was designed to be conformal and https://math.stackexchange.com/questions/3114581/images-aspect-ratio/3114598#3114598 maintaining a image that lies about your faceshape yet makes it impossible to see from the camera's own view and fixing this is a little bit of mathematical challenge but for now at least this will help.
+(1-4/5)=20% and (1-3/4)=25% so taking 3:4 aspect to 1:1 is still 5% too small a height however the chip was designed be https://math.stackexchange.com/questions/3114581/images-aspect-ratio/3114598#3114598 maintaining a image that lies about your faceshape yet makes it impossible to see from the camera's own view and fixing this is a little bit of mathematical challenge but for now at least this will help. 
+https://math.stackexchange.com/questions/1113329/area-preserving-iff-det-1/1113428#1113428
 
 And the apps that might have worked are not even there anymore https://android.stackexchange.com/questions/98427/change-aspect-ratio-of-pictures/98683#98683. Although https://play.google.com/store/apps/details?id=com.paintastic is one for pictures.
 
